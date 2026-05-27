@@ -22,8 +22,10 @@
       },
       "package": "org.duckdns.storyfit"
     },
-    "plugins": [
-      "expo-status-bar"
-    ]
+    "extra": {
+      "eas": {
+        "projectId": "4270dd97-4987-4589-b684-fc267b6463b7"
+      }
+    }
   }
 }
